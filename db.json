@@ -1,0 +1,18 @@
+{
+  "Infogempa": {
+    "gempa": {
+      "Tanggal": "13 Jan 2023",
+      "Jam": "22:41:45 WIB",
+      "DateTime": "2023-01-13T15:41:45+00:00",
+      "Coordinates": "-2.44,138.59",
+      "Lintang": "2.44 LS",
+      "Bujur": "138.59 BT",
+      "Magnitude": "5.0",
+      "Kedalaman": "54 km",
+      "Wilayah": "Pusat gempa berada di darat 31 km Tenggara Mamberotengah",
+      "Potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+      "Dirasakan": "III Sarmi",
+      "Shakemap": "20230113224145.mmi.jpg"
+    }
+  }
+}

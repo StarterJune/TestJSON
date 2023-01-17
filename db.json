@@ -1,18 +1,1 @@
-{
-  "Infogempa": {
-    "gempa": {
-      "Tanggal": "13 Jan 2023",
-      "Jam": "22:41:45 WIB",
-      "DateTime": "2023-01-13T15:41:45+00:00",
-      "Coordinates": "-2.44,138.59",
-      "Lintang": "2.44 LS",
-      "Bujur": "138.59 BT",
-      "Magnitude": "5.0",
-      "Kedalaman": "54 km",
-      "Wilayah": "Pusat gempa berada di darat 31 km Tenggara Mamberotengah",
-      "Potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-      "Dirasakan": "III Sarmi",
-      "Shakemap": "20230113224145.mmi.jpg"
-    }
-  }
-}
+{"Infogempa":{"gempa":{"Tanggal":"17 Jan 2023","Jam":"23:12:01 WIB","DateTime":"2023-01-17T16:12:01+00:00","Coordinates":"-6.78,107.10","Lintang":"6.78 LS","Bujur":"107.10 BT","Magnitude":"2.6","Kedalaman":"10 km","Wilayah":"Pusat gempa berada di darat 6 km Baratlaut Kabupaten Cianjur","Potensi":"Gempa ini dirasakan untuk diteruskan pada masyarakat","Dirasakan":"II - III Cilaku, II - III Cugenang, II - III Cianjur, II - III Karangtengah, II - III Cipanas","Shakemap":"20230117231201.mmi.jpg"}}}
